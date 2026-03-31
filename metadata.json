@@ -1,0 +1,5 @@
+{
+  "name": "ScrollStop AI",
+  "description": "An application that uses Gemini 3.1 Flash and Nano Banana to turn messy text inputs into structured, beautifully designed, and swipeable social media carousels.",
+  "requestFramePermissions": []
+}
